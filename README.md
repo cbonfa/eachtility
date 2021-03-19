@@ -1,6 +1,6 @@
 # Eachtility
 
-Extra versions of the each command
+Variations of the "each" command
 
 
 ## Installation
